@@ -1,0 +1,11 @@
+Marta,marta@example.com,30,60000,Employee
+Juan,juan@example.com,28,45000,Employee
+Carlos,carlos@example.com,35,47000,Employee
+David,david@example.com,40,70000,Employee
+Eva,eva@example.com,25,40000,Employee
+CaithSith,caithsith@example.com,22,18000,Intern
+Elena,elena@example.com,21,19000,Intern
+Laura,laura@example.com,23,20000,Intern
+Ivan,ivan@example.com,24,15000,Intern
+Claudia,jclaudia@example.com,22,17000,Interny
+Paco,Paco@example.com,26,27000,Intern
